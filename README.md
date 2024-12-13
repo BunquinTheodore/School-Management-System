@@ -1,4 +1,7 @@
 
+https://github.com/user-attachments/assets/199b24b6-bc05-45be-88a4-1a95773acdda
+
+
 # 🎯 School Management System
 
 ## Introduction 
